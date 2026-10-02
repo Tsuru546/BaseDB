@@ -1,1 +1,7 @@
-# BaseDB
+# Конспекты "Основы проектирования баз данных"
+
+Навигация
+- [Mermaid](/Mermaid.md)
+- [Markdown](/Markdown.md)
+- [Bash.CLI](/Bash.CLI.md)
+- [text](/text.md)
