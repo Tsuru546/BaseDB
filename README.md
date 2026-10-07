@@ -6,3 +6,4 @@
 - [Bash.CLI](/Bash.CLI.md)
 - [text](/text.md)
 - [Scripts](/Scripts.md)
+- [Git](/Git.md)
