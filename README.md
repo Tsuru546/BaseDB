@@ -5,3 +5,4 @@
 - [Markdown](/Markdown.md)
 - [Bash.CLI](/Bash.CLI.md)
 - [text](/text.md)
+- [Scripts](/Scripts.md)
