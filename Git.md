@@ -323,3 +323,5 @@ git push origin --delete test
 ```
  
 ### Слияние веток
+
+Например, ветку **anybranch** слить с 
