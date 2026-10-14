@@ -7,4 +7,5 @@
 - [text](/text.md)
 - [Scripts](/Scripts.md)
 - [Git](/Git.md)
-- Статический сайт на GitHub Pages
+- [Статический сайт на GitHub Pages]()
+
