@@ -7,6 +7,7 @@
 - [Scripts](/Scripts.md)
 - [Git](/Git.md)
 - [Статический сайт на GitHub Pages](https://github.com/Tsuru546/Horror-mod-s-Minecraft)
+- [Docker](/Docker.md)
 
 # Репозиторий преподавателя
 
