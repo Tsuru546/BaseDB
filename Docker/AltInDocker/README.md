@@ -25,13 +25,13 @@ docker run -ti --rm --name alt alt:sisyphus /bin/bash
 ```shell
 apt-get update && apt-get install fastfetch
 ```
-![2](Docker/img/2026-11-23_11-25-22.png)
+![1](Docker/img/2026-11-23_11-25-22.png)
 
 #### Запустить Fastfetch
 ```shell
 fastfetch
 ```
-![3](Docker/img/2026-11-23_11-25-46.png)
+![1](Docker/img/2026-11-23_11-25-46.png)
 
 ##### Выйти из контейнера с Alt
 ```shell
