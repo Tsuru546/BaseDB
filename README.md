@@ -8,6 +8,7 @@
 - [Git](/Git.md)
 - [Статический сайт на GitHub Pages](https://github.com/Tsuru546/Horror-mod-s-Minecraft)
 - [Docker](/Docker.md)
+- [Лабораторные работы по Docker](/Docker/)
 
 # Репозиторий преподавателя
 
